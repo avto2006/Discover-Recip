@@ -1,0 +1,14 @@
+.rec_section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rec_section ul {
+    display: flex;
+    text-align: center;
+    gap: 8vh;
+}
+
+.img {
+    width: 150px;
+}

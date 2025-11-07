@@ -1,0 +1,39 @@
+nav  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EFC81A;
+}
+
+.nav_left ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 5vh;
+    align-items: center;
+}
+
+
+
+
+ul li, ul li a  {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+.home {
+    background-color: white;
+    padding: 5px;
+
+}
+
+.home  a {
+        color: #EFC81A;
+}
+
+
+
+.user_right {
+    display: flex;
+    gap: 2vh;
+}
