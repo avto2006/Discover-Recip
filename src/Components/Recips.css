@@ -12,3 +12,12 @@
 .img {
     width: 150px;
 }
+
+.head_sec h3, .head_sec2 h3 {
+    margin-left: 2vh;
+    margin-top: 10vh;
+}
+
+.rec_section, .rec_section2 {
+    margin-top: 5vh;
+}

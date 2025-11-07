@@ -27,6 +27,23 @@ ul li, ul li a  {
 
 }
 
+
+.searchMenu:hover {
+    background-color: white;
+    padding: 5px;
+    
+    transition: 1s ease;
+    color: yellow;
+}
+
+.addMenu:hover {
+    background-color: white;
+    padding: 5px;
+       transition: 1s ease;
+
+}
+
+
 .home  a {
         color: #EFC81A;
 }

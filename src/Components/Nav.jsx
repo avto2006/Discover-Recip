@@ -8,8 +8,8 @@ export const Nav = () => {
           <div className="nav_left">
               <ul>
                 <li className='home'><a href="#">Home</a></li>
-                <li><a href="#">Add Menu</a></li>
-                <li><a href="#">Search Menu</a></li>
+                <li className='addMenu'><a href="#">Add Menu</a></li>
+                <li className='searchMenu'><a href="#">Search Menu</a></li>
               </ul>
           </div>
 
