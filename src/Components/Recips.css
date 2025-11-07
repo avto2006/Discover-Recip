@@ -1,12 +1,12 @@
-.rec_section {
+.rec_section,.rec_section2 {
     display: flex;
     justify-content: space-around;
 }
 
-.rec_section ul {
+.rec_section ul,.rec_section2 ul {
     display: flex;
     text-align: center;
-    gap: 8vh;
+    gap: 15vh;
 }
 
 .img {
