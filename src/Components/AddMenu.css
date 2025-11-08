@@ -64,5 +64,9 @@
 
 .post {
     margin-bottom: 1vh;
+    color: red;
+    cursor: pointer;
 }
+
+
 
