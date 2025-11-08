@@ -19,20 +19,20 @@ export const Recips = () => {
             <div className="rec_section">
                 <ul>
                 <li>
-                    <a href="">
+                    <a href="https://www.loveandlemons.com/salad-recipes/" target='_blank'>
                       <img className='img' src={img} alt="" />
                       <p>Salads</p>
                     </a>
                 </li>
-                <li><a href="">
+                <li><a href="https://www.loveandlemons.com/appetizers/" target='_blank'>
                     <img className='img'  src={img2} alt="" />
                       <p>Appetizer</p>
                     </a></li>
-                <li><a href="">
+                <li><a target='_blank' href="https://www.loveandlemons.com/easy-dinner-ideas/?gad_source=1&gad_campaignid=23243038975&gbraid=0AAAABB7vB7kzycQCeqdiwU2w_OTfp8pkJ&gclid=CjwKCAiAzrbIBhA3EiwAUBaUdcico1pCUWFcMN0GrJiboE9T2Sa-YTnHAu0PGKk9zjWVjGO6dPbu7BoCcLcQAvD_BwE">
                     <img className='img'  src={img3} alt="" />
                       <p>Main Course</p>
                     </a></li>
-                <li><a href="">
+                <li><a target='_blank' href="https://www.delish.com/cooking/g1956/best-cookies/?gad_source=1&gad_campaignid=23229487395&gbraid=0AAAABB8VvfT446Q-rNafRObWS-rHYI0cY&gclid=CjwKCAiAzrbIBhA3EiwAUBaUdXsxEttJZHQBRp7lEklmPIa_wy5kMadX2fKuI-V6M_W2iW1_QRfjZxoC9goQAvD_BwE">
                     <img className='img'  src={img4} alt="" />
                       <p>Dessert</p>
                     </a></li>
