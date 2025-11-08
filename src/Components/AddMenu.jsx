@@ -3,24 +3,18 @@ import css from './AddMenu.css'
 import React, { useState } from 'react'
 
 export const AddMenu = () => {
-
-    const [postRecipe,setPostRecip] = useState(0)
-    let text1 = document.querySelector('.text_ar2')
-    let text2 = document.querySelector('.text_ar3')
+      
+  /* const [title, setTitle] = useState('')
+    const [ingredients,setIngredients] = useState('')
+    const [message,setMessage] = useState('')
+  
 
     const handlePost = () => {
-        
-         if(text1 !== '' && text2 !== '') {
-         setPostRecip(alert('Post Send Succesfully'))
-    }   else if(text1 === '' && text2 !== '' ) {
-        setPostRecip(alert('Please enter the title'))
-    }   else if(text1 !== '' && text2 === '' ) {
-        setPostRecip(alert('Please enter Ingredients and Description'))
-    }   else {
-        setPostRecip(alert('Please fill in the fields'))
-    }
-}
-
+        if(title &&  ingredients) {
+            setMessage('Message sent Successfully')
+            alert('Message sent Successfully')
+        }
+    } */
   return (
     <div>
 
@@ -33,14 +27,14 @@ export const AddMenu = () => {
                     upload photo 
                 </div>
                 <div className="title">
-                <textarea  className='text_ar2'  name="" id="" placeholder='Title'></textarea>
+                <textarea  className='text_ar2'  name="" id="" placeholder='Title' ></textarea>
                 </div>
 
                 <div className="ingredients">
-                <textarea  placeholder='Ingredients & Description' className='text_ar3' name="" id=""></textarea>
+                <textarea  placeholder='Ingredients & Description' className='text_ar3' name="" id="" ></textarea>
                 </div>
 
-                <div className="post" onClick={handlePost}>
+                <div className="post" /*onClick={handlePost}*/>
                     Post Recipe !!!
                 </div>
             </div>
