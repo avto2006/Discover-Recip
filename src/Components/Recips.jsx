@@ -46,20 +46,20 @@ export const Recips = () => {
                 <div className="rec_section2">
                         <ul>
                 <li>
-                    <a href="">
+                    <a href="https://www.clubmahindra.com/blog/food/traditional-gujarati-cuisine-dishes" target='_blank'>
                       <img className='img' src={img5} alt="" />
                       <p>Gujarati</p>
                     </a>
                 </li>
-                <li><a href="">
+                <li><a href="https://www.vegrecipesofindia.com/recipes/punjabi-recipes/" target='_blank'>
                     <img className='img'  src={img6} alt="" />
                       <p>Punjabi</p>
                     </a></li>
-                <li><a href="">
+                <li><a href="https://www.indianhealthyrecipes.com/recipes/south-indian-recipes-food/" target='_blank'>
                     <img className='img'  src={img7} alt="" />
                       <p>South Indian</p>
                     </a></li>
-                <li><a href="">
+                <li><a href="https://www.simplyrecipes.com/easy-chinese-recipes-11751238" target='_blank'>
                     <img className='img'  src={img8} alt="" />
                       <p>Chinese</p>
                     </a></li>
