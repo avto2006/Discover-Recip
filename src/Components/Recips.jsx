@@ -48,20 +48,20 @@ export const Recips = () => {
                 <li>
                     <a href="">
                       <img className='img' src={img5} alt="" />
-                      <p>Salads</p>
+                      <p>Gujarati</p>
                     </a>
                 </li>
                 <li><a href="">
                     <img className='img'  src={img6} alt="" />
-                      <p>Appetizer</p>
+                      <p>Punjabi</p>
                     </a></li>
                 <li><a href="">
                     <img className='img'  src={img7} alt="" />
-                      <p>Main Course</p>
+                      <p>South Indian</p>
                     </a></li>
                 <li><a href="">
                     <img className='img'  src={img8} alt="" />
-                      <p>Dessert</p>
+                      <p>Chinese</p>
                     </a></li>
                 </ul>
                 </div>
