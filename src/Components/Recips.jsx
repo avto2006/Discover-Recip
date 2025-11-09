@@ -16,7 +16,7 @@ export const Recips = () => {
             <div className="head_sec">
             <h3>Check Out Other Recipes Of Your Choice !</h3>
             </div>
-            <div className="rec_section">
+            <div id='category' className="rec_section">
                 <ul>
                 <li>
                     <a href="https://www.loveandlemons.com/salad-recipes/" target='_blank'>

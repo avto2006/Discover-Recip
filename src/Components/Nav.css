@@ -36,14 +36,14 @@ ul li, ul li a  {
     color: yellow;
 }
 
-.addMenu:hover {
+.addMenu:hover,.category:hover {
     background-color: white;
     padding: 5px;
        transition: 1s ease;
 
 }
 
-.addMenu a:hover {
+.addMenu a:hover,.category a:hover {
     color: yellow;
     transition: 1s ease;
 
