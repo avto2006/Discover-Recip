@@ -44,7 +44,7 @@ ul li, ul li a  {
 }
 
 .addMenu a:hover,.category a:hover {
-    color: yellow;
+    color: #EFC81A;
     transition: 1s ease;
 
 }
