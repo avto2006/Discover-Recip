@@ -11,12 +11,10 @@ export const AddMenu = () => {
 
     const handlePost = () => {
         if(title === '' &&  ingredients === '') {
-            setMessage('Message sent Successfully')
-            alert('Message sent Successfully')
-        } else if (!title && ingredients) {
+            setMessage('Error')
+            alert('Error')
+        } else if (!title === '' && ingredients === '') {
             alert('No')
-        } else {
-            alert('yes')
         }
     } 
   return (
@@ -31,7 +29,7 @@ export const AddMenu = () => {
                     upload photo 
                 </div>
                 <div className="title">
-                <textarea  className='text_ar2' placeholder='Title' value={title} ></textarea>
+                <textarea  className='text_ar2' placeholder='Title' value={title} onChange={(e) => setTitle(e.target.value)} ></textarea>
                 </div>
 
                 <div className="ingredients">
