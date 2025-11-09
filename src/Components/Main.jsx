@@ -47,7 +47,7 @@ export const Main = () => {
                        <hr/>
                        <p>“Quick + Easy Veggie Delight Sandwich  - < br /> Elevate Your Lunch in Minutes!“</p>
                        <div className="exploreMore">
-                        <a href="https://lightorangebean.com/veggie-delight-sandwiches-with-herb-chutney/">
+                        <a href="https://lightorangebean.com/veggie-delight-sandwiches-with-herb-chutney/" target='_blank'>
                         Explore More
                         </a>
                        </div>
