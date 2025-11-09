@@ -71,6 +71,19 @@ hr {
 }
 
 
+.exploreMore {
+    border: 4px solid yellow;
+    width: 100px;
+    padding: 1vh;
+    border-radius: 15px;
+}
+
+.exploreMore:hover {
+    background-color: yellow;
+    transition: 1s ease-in;
+    cursor: pointer;
+}
+
 
 
 
