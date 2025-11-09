@@ -21,7 +21,9 @@ export const Main = () => {
                             & Delicious Food
                         </h1 >
                         <div className="explore_box">
-                          <a href="">  Explore More </a>
+                          <a href="https://damndelicious.net/" target='_blank'>
+                            Explore More 
+                          </a>
                         </div>
 
                     </div>
