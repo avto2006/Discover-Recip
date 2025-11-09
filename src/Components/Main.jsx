@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import css from './Main.css'
 
 
@@ -7,6 +7,11 @@ import img2 from './images/first.png'
 import img3 from './images/second.png'
 import img4 from './images/third.png'
 export const Main = () => {
+  const [click,setClick] = useState(0)
+
+  const search = () => {
+     setClick('google.com')
+  }
   return (
     <div>
          <div className="components">
@@ -20,7 +25,8 @@ export const Main = () => {
                             & Delicious Food
                         </h1 >
                         <div className="search_box">
-                        <input className='inp1' type="search" name="" id="" placeholder='Search Your Favorite Food ' />
+                        <input className='inp1' type="search" name="" id="" placeholder='Search Your Favorite Food ' onClick={search} onChange={(e) => setClick(e.target.value
+                        )} />
                         </div>
 
                     </div>
