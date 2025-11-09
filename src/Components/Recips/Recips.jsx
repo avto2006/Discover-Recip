@@ -2,14 +2,14 @@ import css from '../Recips/Recips.css'
 
 
 import React from 'react'
-import img from './images/Frame 15.png'
-import img2 from './images/Frame 16.png'
-import img3 from './images/Frame 17.png'
-import img4 from './images/Frame 18.png'
-import img5 from './images/Frame 21.png'
-import img6 from './images/Frame 23.png'
-import img7 from './images/Frame 24.png'
-import img8 from './images/Frame 22.png'
+import img from '../images/Frame 15.png'
+import img2 from '../images/Frame 16.png'
+import img3 from '../images/Frame 17.png'
+import img4 from '../images/Frame 18.png'
+import img5 from '../images/Frame 21.png'
+import img6 from '../images/Frame 23.png'
+import img7 from '../images/Frame 24.png'
+import img8 from '../images/Frame 22.png'
 export const Recips = () => {
   return (
     <div>
