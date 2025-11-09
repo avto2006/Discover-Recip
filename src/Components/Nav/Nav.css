@@ -64,6 +64,9 @@ ul li, ul li a  {
 }
 
 @media screen and (max-width:768px) {
+    body {
+        overflow: hidden;
+    }
     nav {
         width: 100%;
         align-items: center;

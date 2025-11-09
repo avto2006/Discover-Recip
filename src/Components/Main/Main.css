@@ -13,6 +13,9 @@
     width: 35px;
 }
 
+
+
+
 .search_right {
     
         background-color: yellow;
@@ -111,6 +114,24 @@ hr {
 }
 
 
+
+@media screen and (max-width:768px) {
+
+
+ 
+.sec_left {
+    font-size: 22px;
+}
+
+.sec_right .img2 {
+    width: 220px;
+}
+
+
+
+
+
+}
 
 
 
