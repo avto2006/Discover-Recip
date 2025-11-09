@@ -76,12 +76,24 @@ hr {
     width: 100px;
     padding: 1vh;
     border-radius: 15px;
+
 }
 
 .exploreMore:hover {
-    background-color: yellow;
-    transition: 1s ease-in;
+     background-color: yellow;
+      transition: 1s ease-in;
+}
+
+.exploreMore a:hover {
+   
+    transition: 0.5s ease-in;
     cursor: pointer;
+    color: white;
+}
+
+.exploreMore a {
+    text-decoration: none;
+    color: yellow;
 }
 
 
