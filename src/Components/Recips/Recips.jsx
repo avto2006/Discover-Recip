@@ -1,4 +1,4 @@
-import css from './Recips.css'
+import css from '../Recips/Recips.css'
 
 
 import React from 'react'

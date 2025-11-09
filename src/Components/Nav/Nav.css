@@ -62,3 +62,7 @@ ul li, ul li a  {
     display: flex;
     gap: 2vh;
 }
+
+@media screen and (max-width:768px) {
+    
+}

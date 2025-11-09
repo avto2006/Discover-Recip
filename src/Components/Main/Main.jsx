@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import css from './Main.css'
+import css from '../Main/Main.css'
 
 
 import img from './icons/search.png'

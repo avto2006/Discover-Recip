@@ -1,5 +1,5 @@
 import React from 'react'
-import GroupImg from './icons/Group.svg'
+import GroupImg from '../icons/Group.svg'
 
 export const Nav = () => {
   return (
