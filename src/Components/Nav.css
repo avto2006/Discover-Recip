@@ -43,6 +43,12 @@ ul li, ul li a  {
 
 }
 
+.addMenu a:hover {
+    color: yellow;
+    transition: 1s ease;
+
+}
+
 
 
 
