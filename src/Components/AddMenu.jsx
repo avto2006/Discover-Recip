@@ -18,7 +18,7 @@ export const AddMenu = () => {
   return (
     <div>
 
-        <section className="addMenu">
+        <section id='addMenu' className="addMenu">
             <h3>Add The Recipe Of Your Choice !</h3>
 
             <div className="addMenuConteiner">
