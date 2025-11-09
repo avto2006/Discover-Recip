@@ -2,10 +2,10 @@ import React, { useState } from 'react'
 import css from '../Main/Main.css'
 
 
-import img from './icons/search.png'
-import img2 from './images/first.png'
-import img3 from './images/second.png'
-import img4 from './images/third.png'
+import img from '../icons/search.png'
+import img2 from '../images/first.png'
+import img3 from '../images/second.png'
+import img4 from '../images/third.png'
 export const Main = () => {
   
   return (
