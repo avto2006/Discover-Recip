@@ -8,18 +8,6 @@
     padding-left: 2vh;
 }
 
-.search_box {
-    display: flex;
-    width: 300px;
-    height: 40px;
-    align-items: center;
-    padding-right: 2vh;
-    justify-content: space-around;
-    width: 300px;
-    border: 2px solid yellow;
-    border-radius: 15px;
-    
-}
 
 .img1 {
     width: 35px;
@@ -68,6 +56,32 @@ hr {
     gap: 30vh;
     justify-content: center;
     align-items: center;
+}
+
+
+.explore_box {
+    border: 4px solid yellow;
+    width: 100px;
+    padding: 1vh;
+    border-radius: 15px;
+
+}
+
+.explore_box:hover {
+     background-color: yellow;
+      transition: 1s ease-in;
+}
+
+.explore_box a:hover {
+   
+    transition: 0.5s ease-in;
+    cursor: pointer;
+    color: white;
+}
+
+.explore_box a {
+    text-decoration: none;
+    color: yellow;
 }
 
 
