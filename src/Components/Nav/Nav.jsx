@@ -14,7 +14,7 @@ export const Nav = () => {
           </div>
 
           <div className="user_right">
-                <img src={GroupImg} />
+                <img className='img1' src={GroupImg} />
                 <h5>User Name</h5>
           </div>
        </nav>
