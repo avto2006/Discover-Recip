@@ -84,6 +84,22 @@
     .upload {
         width: 200px;
     }
+
+    .title  {
+        display: flex;
+        justify-content: center;
+        max-width: 50px;
+        min-width: 50px;
+        min-height: 50px;
+        max-height: 50px;
+    }
+
+    .txt1 {
+        width: 100px;
+        max-width: 100px;
+    }
+
+   
 }
 
 

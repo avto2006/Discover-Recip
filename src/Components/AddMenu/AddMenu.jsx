@@ -34,7 +34,7 @@ export const AddMenu = () => {
                 </div>
 
                 <div className="ingredients">
-                <textarea  placeholder='Ingredients & Description' className='text_ar3' value={ingredients} onChange={(e) => setIngredients(e.target.value)} ></textarea>
+                <textarea  placeholder='Ingredients & Description' className='text_ar3' value={ingredients} onChange={(e) => setIngredients(e.target.value)} id='txt1' ></textarea>
                 </div>
 
                 <div className="post" onClick={handlePost}>
