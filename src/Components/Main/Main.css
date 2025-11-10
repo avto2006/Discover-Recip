@@ -132,13 +132,16 @@ hr {
     
 }
 
-.sec_right .img2 {
+.sec_right .img2,.sec_left .img3 {
     width: 220px;
 }
 
-.component_1 {
+
+
+.component_1,.component_2 {
     justify-content: center;
     gap: 2vh;
+    align-items: center;
 }
 
 

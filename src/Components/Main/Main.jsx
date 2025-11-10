@@ -41,7 +41,7 @@ export const Main = () => {
                <h3>Dish Of The Day !</h3>
                <div className="sections">
                <div className="sec_left">
-               <img src={img3} />
+               <img className='img3' src={img3} />
                </div>
 
                <div className="sec_right">
