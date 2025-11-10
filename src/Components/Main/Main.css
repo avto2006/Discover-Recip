@@ -119,8 +119,13 @@ hr {
 
 
  
-.sec_left {
-    font-size: 22px;
+.sec_left h1 {
+    font-size: 18px;
+}
+
+.sec_left a {
+    width: 20px;
+    height: 20px;
 }
 
 .sec_right .img2 {
