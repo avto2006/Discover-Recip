@@ -71,6 +71,12 @@
 
 @media screen and (max-width:768px) { 
 
+    
+
+    .inp {
+        margin-left: 8vh;
+    }
+
     .addMenu {
         text-align: center;
     }
