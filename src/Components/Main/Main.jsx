@@ -44,7 +44,7 @@ export const Main = () => {
                <img className='img3' src={img3} />
                </div>
 
-               <div className="sec_right">
+               <div className="sec_right2">
                       <h4>Healthy Bites: <br />
                        Nourishing Sandwich Creations </h4>
                        <hr/>

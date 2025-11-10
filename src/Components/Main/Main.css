@@ -45,6 +45,7 @@
     margin-left: 1vh;
 }
 
+
 hr {
     border: 2px solid yellow;
 }
@@ -143,6 +144,26 @@ hr {
     gap: 2vh;
     align-items: center;
 }
+
+.component_2 h3 {
+    display: none;
+}
+
+.sec_right2  {
+    font-size: 12px;
+    visibility: hidden;
+}
+
+
+
+
+
+.sections {
+    text-align: center;
+    justify-content: center;
+    gap: 1vh;
+}
+
 
 
 
