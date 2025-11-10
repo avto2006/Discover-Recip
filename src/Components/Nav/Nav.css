@@ -83,7 +83,7 @@ ul li, ul li a  {
     .user_right {
         gap: 1vh;
         margin-right: 8vh;
-        justify-content: right;
+        justify-content:  right;
     }
 
     .user_right h5 {
