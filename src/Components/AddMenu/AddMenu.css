@@ -81,7 +81,7 @@
         text-align: center;
     }
 
-    .upload {
+    .upload,.post {
         width: 200px;
     }
 
@@ -94,8 +94,9 @@
         max-height: 50px;
     }
 
-    .txt1 {
-        width: 100px;
+    .text_ar2,.text_ar3 {
+        width: 300px;
+        min-width: 300px;
         max-width: 100px;
     }
 
