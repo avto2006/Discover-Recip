@@ -123,13 +123,22 @@ hr {
     font-size: 18px;
 }
 
-.sec_left a {
-    width: 20px;
+.explore_box {
+    width: 100px;
     height: 20px;
+    font-size: 15px;
+    border: 1px solid yellow;
+    text-align: center;
+    
 }
 
 .sec_right .img2 {
     width: 220px;
+}
+
+.component_1 {
+    justify-content: center;
+    gap: 2vh;
 }
 
 
