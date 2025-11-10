@@ -14,7 +14,7 @@ export const Recips = () => {
   return (
     <div>
             <div className="head_sec">
-            <h3>Check Out Other Recipes Of Your Choice !</h3>
+            <h3>Check Out Other Recipes</h3>
             </div>
             <div id='category' className="rec_section">
                 <ul>
