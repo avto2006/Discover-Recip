@@ -28,10 +28,10 @@
 
 @media screen and (max-width:768px) {
 
-   .head_sec {
+   .head_sec,.head_sec2  {
     text-align: center;
    }
-.rec_section ul {
+.rec_section ul, .rec_section2 ul {
     display: grid;
 }
 
