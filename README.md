@@ -1,4 +1,4 @@
-<img width="1890" height="980" alt="Screenshot 2025-11-11 185004" src="https://github.com/user-attachments/assets/19f34fd6-a9fc-445d-ac40-b2009596dd60" /># ⚡ React App – My Project
+ ⚡ React App – My Project
 
 This is a **React application** showcasing my frontend development skills.  
 It demonstrates dynamic UI, component-based architecture, and responsive design.
